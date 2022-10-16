@@ -1,5 +1,6 @@
 # Lab 1: Set Covering
 
+Magnaldi Matteo, student id 296852.
 The lab was resolved collaborating with Serra Matteo, student id: 303513
 
 Inside the file solution.ipynb there are 3 different solutions.
