@@ -1,3 +1,2 @@
-
-#Lab 1: Set Covering
+# Lab 1: Set Covering
 
