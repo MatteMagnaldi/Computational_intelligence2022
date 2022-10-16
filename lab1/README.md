@@ -15,7 +15,7 @@ For N = 5 the optimal solution has total number of elements = 5 and visited node
 for N = 10 the optimal solution has total number of elements = 10 and visited nodes = 11708. <br>
 for N = 20 the optimal solution has total number of elements = 23 and visited nodes = 35711. <br>
 
-The last solution produces result that are not optimal, but is much faster.
+The last solution produces result that are not optimal, but is much faster. <br>
 For N = 5 the solution has total number of elements = 6 and visited nodes = 4 <br>
 for N = 10 the solution has total number of elements = 12 and visited nodes = 3 <br>
 for N = 20 the solution has total number of elements = 41 and visited nodes = 26 <br>
