@@ -5,7 +5,7 @@ The lab was resolved collaborating with Serra Matteo, student id: 303513
 
 Inside the file solution.ipynb there are 3 different solutions.
 
-The first solution produces results in a reasonable time only up to N = 20. 
+The first solution produces results in a reasonable time only up to N = 20. <br>
 For N = 5 the optimal solution has total number of elements = 5 and visited nodes = 98.
 for N = 10 the optimal solution has total number of elements = 10 and visited nodes = 12508.
 for N = 20 the optimal solution has total number of elements = 23 and visited nodes = 46542.
