@@ -4,6 +4,6 @@ Magnaldi Matteo, student id 296852. The lab was resolved collaborating with Serr
 
 Results with different N:
 
-N = 100 -> 192
-N = 500 -> 1337
-N = 1000 -> 2937
+N = 100 -> 192 <br>
+N = 500 -> 1337 <br>
+N = 1000 -> 2937 <br>
